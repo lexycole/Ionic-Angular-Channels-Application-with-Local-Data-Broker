@@ -2,3 +2,5 @@
 channels-web-mobile-ionic-angular
 
 TEST🚀 APP FOR IONIC AND ANGULAR
+
+#🚀 ionic serve
